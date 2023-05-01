@@ -1,5 +1,5 @@
-data/dataset/58.jpg
-data/dataset/60.jpg
-data/dataset/80.jpg
-data/dataset/90.jpg
-data/dataset/100.jpg
+/content/yolov4/docs/data/dataset/58.jpg
+/content/yolov4/docs/data/dataset/60.jpg
+/content/yolov4/docs/data/dataset/80.jpg
+/content/yolov4/docs/data/dataset/90.jpg
+/content/yolov4/docs/data/dataset/100.jpg
