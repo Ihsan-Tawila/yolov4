@@ -1,5 +1,5 @@
 classes = 1
-train = data/train.txt
-valid = data/val.txt
-names = data/dataset.names
+train = /content/yolov4/docs/data/train.txt
+valid = /content/yolov4/docs/data/val.txt
+names = /content/yolov4/docs/data/dataset.names
 backup = backup/
